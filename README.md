@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Implementation
+The script plotting.R contains all the code needed for the current assignment. From download to plotting the 4 described exercises.
+The codebook CodeBook.md offers short description of the steps taken in de script.
+
+
